@@ -1,6 +1,6 @@
-# Project Name
+# LLM Evolution
 
-Short one- or two-sentence description of what this project does and who it's for.
+This project outline the evolution of LLM understanding
 
 ## Table of Contents
 
